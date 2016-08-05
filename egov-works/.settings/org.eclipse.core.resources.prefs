@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/resources=UTF-8
+encoding//src/main/resources/reports/templates/BOQ_NonSOR.jrxml=UTF-8
+encoding//src/main/resources/reports/templates/BillOfQuantities.jrxml=UTF-8
+encoding//src/main/resources/reports/templates/BudgetFolio.jrxml=UTF-8
+encoding//src/main/resources/reports/templates/ContractorBillPDF.jrxml=UTF-8
+encoding//src/main/resources/reports/templates/abstractEstimate_workflowdetails.jrxml=UTF-8
+encoding//src/main/resources/reports/templates/letterOfAcceptancePDF.jrxml=UTF-8
+encoding//src/main/resources/reports/templates/workProgressRegister_subreport5.jrxml=UTF-8
+encoding//src/test/java=UTF-8
+encoding/<project>=UTF-8
