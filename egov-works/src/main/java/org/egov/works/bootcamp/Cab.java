@@ -24,6 +24,8 @@ public class Cab {
     
     private Double latitude;
 
+private Double latitude1;
+
     public Double getLongitude() {
         return longitude;
     }
